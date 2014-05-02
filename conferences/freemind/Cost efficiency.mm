@@ -1,0 +1,16 @@
+<map version="1.0.1">
+<!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+<node CREATED="1398954756679" ID="ID_283667483" MODIFIED="1398954781103" TEXT="Cost efficiency">
+<node CREATED="1398954790560" ID="ID_1595883296" MODIFIED="1398954812253" POSITION="right" TEXT="C.E. = value produced / cost"/>
+<node CREATED="1398954858023" ID="ID_628469544" MODIFIED="1398955950261" POSITION="right" TEXT="simian army (netflix)"/>
+<node CREATED="1398954927159" ID="ID_571643642" MODIFIED="1398954933693" POSITION="right" TEXT="best practise">
+<node CREATED="1398954935000" ID="ID_1298790795" MODIFIED="1398954943364" TEXT="auto scaling">
+<node CREATED="1398954944815" ID="ID_105049405" MODIFIED="1398954948877" TEXT="scaling up"/>
+<node CREATED="1398954949728" ID="ID_449022248" MODIFIED="1398954953349" TEXT="scaling down"/>
+</node>
+<node CREATED="1398955408008" ID="ID_1626112218" MODIFIED="1398955421205" TEXT="avoid expensive resource"/>
+<node CREATED="1398955421704" ID="ID_18074850" MODIFIED="1398955428172" TEXT="outgoing traffic"/>
+<node CREATED="1398955431279" ID="ID_1472704587" MODIFIED="1398955445812" TEXT="cpu (swap thread)"/>
+</node>
+</node>
+</map>
